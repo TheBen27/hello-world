@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Simplistic test repository.
+This is a directory of great promise and a new future.
